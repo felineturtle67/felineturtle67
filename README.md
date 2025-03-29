@@ -5,7 +5,7 @@
 <h3 align="center">Python/C++ Learner</h3>
 
 - Developed a discord bot (discontinued) [Hades](https://discord.com/oauth2/authorize?client_id=760182060542984203&scope=bot&permissions=940043318)
-- 100 servers, 45k+ members (discord required further verification for 100+ servers)
+- Bot added to 100 servers, 45k+ members (discord required further verification for 100+ servers)
 
 - I also enjoy coding in C++
 
